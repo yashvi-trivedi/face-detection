@@ -4,18 +4,6 @@ Real-time face detection using OpenCV:
 
 Captures video from your webcam and applies face detection to identify and highlight faces in the video stream with bounding boxes.
 
-## Prerequisites
-
-Before running this project, make sure you have the following installed:
-
-- Python 3.x
-- OpenCV (`cv2`)
-
-To install OpenCV, run:
-
-```bash
-pip install opencv-python
-```
 ## How It Works
 1. Haar Cascade Classifier: The face detection is powered by OpenCV's Haar Cascade Classifier, a machine learning-based approach for object detection.
 
