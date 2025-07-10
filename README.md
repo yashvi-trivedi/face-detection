@@ -30,6 +30,7 @@ pip install -r requirements.txt
 
 Run the Python script:
 ```bash
-```python face_detection.py
+python face_detection.py
+```
 
 A window will appear showing the webcam feed with green bounding boxes around detected faces. Press `q` to quit the program.
