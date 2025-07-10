@@ -1,6 +1,8 @@
 # Face Detection with OpenCV
 
-Real-time face detection using OpenCV: Captures video from your webcam and applies face detection to identify and highlight faces in the video stream with bounding boxes.
+Real-time face detection using OpenCV: 
+
+Captures video from your webcam and applies face detection to identify and highlight faces in the video stream with bounding boxes.
 
 ## Prerequisites
 
